@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TM0Mpp5jJNM=",
+  "success": true,
+  "projectFilePath": "/Users/user1/Downloads/exchange-rates-docker/backend/ExchangeRatesApi/ExchangeRatesApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/user1/.nuget/packages/microsoft.aspnetcore.openapi/9.0.7/microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "/Users/user1/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
